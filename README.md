@@ -3,4 +3,5 @@ A simple porting of abxlfazl khxrshidi’s Animated Tab Bar code onto Github. Th
 
 The code in this repository has been modified a bit. To view the original code, go here: https://codepen.io/abxlfazl/pen/VwKzaEm
 
-I like how SVG animations are cleverly used to animate the menu buttons. Awesome!
+### Note
+There is a small bug in which the buttons overflow when viewed on a mobile viewport.
